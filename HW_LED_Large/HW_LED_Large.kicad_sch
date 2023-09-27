@@ -4775,7 +4775,7 @@
     (property "Value" "D_Small" (at 250.19 17.78 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 250.19 20.32 90)
+    (property "Footprint" "Diode_SMD:D_SMA_Handsoldering" (at 250.19 20.32 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 250.19 20.32 90)
